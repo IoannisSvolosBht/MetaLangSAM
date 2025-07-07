@@ -1,6 +1,6 @@
 streamlit==1.29.0
 leafmap==0.25.0
-samgeo==0.1.2
+git+https://github.com/opengeos/segment-geospatial.git
 geopandas==0.13.2
 matplotlib==3.7.4
 pillow==10.1.0
